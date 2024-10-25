@@ -13,16 +13,17 @@ body{
 }
 
 #header {
-	background-color: #ffff00;
+
 	height: 150px;
 	width: auto;
 	
 }
 #nav {
-	background-color: #ffff00;
+
 	height: 47px;
 	width: auto;
-	text-align: center;	
+	left: 50%;
+	right: 50%;
 
 }
 
