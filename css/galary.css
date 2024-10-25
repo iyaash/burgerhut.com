@@ -1,0 +1,129 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-color: #ffffc5;
+}
+
+#wrapper {
+	height: auto;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #ffffc5;
+}
+
+#header {
+	background-color: #ffff00;
+	height: 150px;
+	width: 1024px;
+}
+#nav {
+	background-color: #ffff00;
+	height: 47px;
+	width: 1024px;
+	margin-bottom: 10px;
+	text-align: center;	
+}
+
+#galary_into{
+	font-family: arial;
+	font-size: 18px;
+	text-align: left;
+	font-weight: bold;
+}
+
+#footer{
+	text-align: center;
+	color: white;
+	cursor: pointer;
+	background-color: #000000;
+	height: 40px;
+	width: 1024px;
+	padding-top: 20px;
+	font-size: 18px;		
+}
+
+#galary_heading{
+	font-size: 26px;
+	font-weight: bold;
+	text-align: left;
+    margin: 0;
+	margin-top: 0;
+	padding-bottom: 0;
+	padding-top: 0;
+}
+
+.buttons {
+	color: #;
+	background-color: #ffff00;
+	border: 0px;
+	width: 130px;
+	height: 45px;
+	font-size: 20px;
+	font-weight: 500px;
+	font-weight: bold;
+	cursor: pointer;
+	margin-left: 5px;	
+	transition: opacity 0.15s , color 0.15s;
+    
+	
+}
+
+.buttons:hover{
+	color: #201E1E;
+	background-color: #EDFCB5;
+}
+
+.buttons:active{
+	opacity: 0.5;
+}
+
+.heading{
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+
+
+.message{
+	text-align: left;
+	font-weight: bold;
+	}
+
+.galery{
+	display: inline-block;
+	margin-right: 10px; 
+	text-align: center;
+	cursor: pointer;
+}
+
+.galery:hover{
+	color: #201E1E;
+	background-color: #EDFCB5;
+}
+
+.galery:active{
+	opacity: 0.5;
+}
+
+.galery2{
+	display: inline-block;
+	margin-right: 10px; 
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 14px;
+	cursor: pointer;
+		
+}
+
+.galery2:hover{
+	color: #201E1E;
+	background-color: #EDFCB5;
+}
+
+.galery2:active{
+	opacity: 0.5;
+}
+
+
