@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+
+#wrapper {
+	height: auto;
+	width: 1024px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#header {
+	background-color: #ffff00;
+	height: 150px;
+	width: 1024px;
+}
+#nav {
+	background-color: #ffff00;
+	height: 47px;
+	width: 1024px;
+	margin-bottom: 10px;
+	text-align: center;	
+}
+
+#advert {
+	height: 400px;
+	width: 1024px;
+	margin-top: 7px
+}
+
+#content {
+	background-color: #FFFF00;
+	width: 1024px;
+	
+}
+
+#footer{
+	text-align: center;
+	color: white;
+	cursor: pointer;
+	background-color: #000000;
+	height: 40px;
+	width: 1024px;
+	padding-top: 20px;
+	font-size: 18px;		
+}
+
+.buttons {
+	color: #;
+	background-color: #ffff00;
+	border: 0px;
+	width: 130px;
+	height: 45px;
+	font-size: 20px;
+	font-weight: 500px;
+	font-weight: bold;
+	cursor: pointer;
+	margin-left: 5px;	
+	transition: opacity 0.15s , color 0.15s;
+    
+	
+}
+
+.buttons:hover{
+	color: #201E1E;
+	background-color: #EDFCB5;
+}
+
+.buttons:active{
+	opacity: 0.5;
+}
+
+.heading{
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+.welcome{
+	font-weight: bold;
+	font-size: 20px;
+	text-align: left;
+	font-family: arial;
+} 
+
+.message{
+	text-align: left;
+	font-weight: bold;
+	}
